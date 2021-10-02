@@ -1,0 +1,17 @@
+.matte.card {
+    border-radius: 5px;
+    background-color: white;
+    -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2);
+}
+
+.matte.card .card-image {
+    border-radius: 5px 5px 0 0;
+    width: 100%;
+    height: auto;
+}
+
+.matte.card .card-image img {
+    border-radius: 5px 5px 0 0;
+    width: 100%;
+}
