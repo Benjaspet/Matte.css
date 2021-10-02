@@ -1,0 +1,29 @@
+.matte.size-1 {
+    font-size: 3rem;
+    margin: 18px 0;
+}
+
+.matte.size-2 {
+    font-size: 2.6rem;
+    margin: 15px 0;
+}
+
+.matte.size-3 {
+    font-size: 2.2rem;
+    margin: 12px 0;
+}
+
+.matte.size-4 {
+    font-size: 1.8rem;
+    margin: 9px 0;
+}
+
+.matte.size-5 {
+    font-size: 1.4rem;
+    margin: 6px 0;
+}
+
+.matte.size-6 {
+    font-size: 1rem;
+    margin: 3px 0;
+}

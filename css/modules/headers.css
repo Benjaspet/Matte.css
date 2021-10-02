@@ -1,0 +1,71 @@
+h1.primary,
+h2.primary,
+h3.primary,
+h4.primary,
+h5.primary,
+h6.primary,
+p.primary,
+a.primary,
+span.primary {
+    color: #0085b6;
+}
+
+h1.info,
+h2.info,
+h3.info,
+h4.info,
+h5.info,
+h6.info,
+p.info,
+a.info,
+span.info {
+    color: #0bb4c1;
+}
+
+h1.danger,
+h2.danger,
+h3.danger,
+h4.danger,
+h5.danger,
+h6.danger,
+p.danger,
+a.danger,
+span.danger {
+    color: #a84432;
+}
+
+h1.success,
+h2.success,
+h3.success,
+h4.success,
+h5.success,
+h6.success,
+p.success,
+a.success,
+span.success {
+    color: #379148;
+}
+
+h1.tip,
+h2.tip,
+h3.tip,
+h4.tip,
+h5.tip,
+h6.tip,
+p.tip,
+a.tip,
+span.tip {
+    color: #fedf03;
+}
+
+h1.center-text,
+h2.center-text,
+h3.center-text,
+h4.center-text,
+h5.center-text,
+h6.center-text,
+p.center-text,
+a.center-text,
+span.center-text {
+    text-align: center;
+}
