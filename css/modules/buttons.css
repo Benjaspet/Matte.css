@@ -1,0 +1,93 @@
+.matte.btn {
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.matte.btn:focus {
+    outline: none;
+}
+
+.matte.btn:hover {
+    -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1);
+}
+
+.matte.btn-rounded {
+    border-radius: 20px;
+}
+
+.matte.btn.pull-left {
+    float: left;
+}
+
+.matte.btn.pull-right {
+    float: right;
+}
+
+.matte.btn-primary {
+    background-color: #0085b6;
+    color: white;
+}
+
+.matte.btn-info {
+    background-color: #0085b6;
+    color: white;
+}
+
+.matte.btn-danger {
+    background-color: #a84432;
+    color: white;
+}
+
+.matte.btn-success {
+    background-color: #379148;
+    color: white;
+}
+
+.matte.btn-tip {
+    background-color: #fedf03;
+    color: white;
+}
+
+.matte.btn-lift-1 {
+    -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1);
+}
+
+.matte.btn-lift-1:hover {
+    -webkit-box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.1);
+}
+
+.matte.btn-lift-2 {
+    -webkit-box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.2);
+}
+
+.matte.btn-lift-2:hover {
+    -webkit-box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.25);
+}
+
+.matte.btn-lift-3 {
+    -webkit-box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+.matte.btn-lift-3:hover {
+    -webkit-box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.35);
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.35);
+}
+
+.matte.btn-lift-4 {
+    -webkit-box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.4);
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.4);
+}
+
+.matte.btn-lift-4:hover {
+    -webkit-box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.45);
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.45);
+}
